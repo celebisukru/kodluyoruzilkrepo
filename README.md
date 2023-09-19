@@ -1,10 +1,10 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
--installation
+#installation
 projenizi klonlayın
-- usage
+# usage
 vs code programında açın
 linux için:
-- contibuting
+# contibuting
 bir konu açınız
-- license
+# license
